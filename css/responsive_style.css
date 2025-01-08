@@ -88,11 +88,15 @@
 
 }
 
-@media (max-width: 330px) {
+@media (max-width: 426px) {
 
     /* carousel design  */
     .testimonial-section .carousel-item {
-        padding: 13rem 3.125rem;
+        padding: 14rem 3.125rem;
+    }
+
+    .testimonial-section .carousel-item .carousel-caption p{
+        font-size: 1.125rem;
     }
 
 }
