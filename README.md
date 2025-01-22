@@ -25,12 +25,12 @@ Check out the live demo: https://sourav-gittech.github.io/Restaurant_web
 
 ```
 restaurant-website/
-├── index.html        # loading Page
+├── index.html               # loading Page
 ├── css/
-│   ├── style.css    # Main stylesheet
-│   ├── responsive_style.css # Responsive styles
+│   ├── style.css            # Main stylesheet
+│   └── responsive_style.css # Responsive styles
 ├── js/
-│   ├── script.js       # Main JavaScript file
-├── images/
-│   ├── ...           # All images used in the project
+│   └── script.js            # Main JavaScript file
+├── images/                  # All images used in the project
+└── README.md                # Project Documentation  
 ```
